@@ -3,3 +3,6 @@ git remote add origin git@github.com:HugoL16/test.git
 //copiez coller du ssh après avoir eu le new repository
 
 git add .
+git commit -m "test"
+git push -u -f origin master
+//que la première fois, les autres c'est que git push
