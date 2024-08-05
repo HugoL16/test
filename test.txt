@@ -8,3 +8,5 @@ git push -u -f origin master
 //que la première fois, les autres c'est que git push
 
 Creer une branche dev sur le repository
+git branch dev
+git checkout dev
