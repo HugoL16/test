@@ -6,3 +6,5 @@ git add .
 git commit -m "test"
 git push -u -f origin master
 //que la première fois, les autres c'est que git push
+
+Creer une branche dev sur le repository
